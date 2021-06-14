@@ -191,7 +191,7 @@ function yelpCall (){
   $.ajax({
     url: myurl,
     headers: {
-      'Authorization:'Bearer JfL0MxzkE7N005XEUQs_EMMK9liMBlTFp4Bd1dOl9GAG7CnwwSFI5MCmbBAG800zjCIOvQyRFkTFw5aWPh73MkAiiYp1OupMZL_jVhri79yWURvuTE4DCZdjoarHYHYx',
+      'Authorization':'Bearer JfL0MxzkE7N005XEUQs_EMMK9liMBlTFp4Bd1dOl9GAG7CnwwSFI5MCmbBAG800zjCIOvQyRFkTFw5aWPh73MkAiiYp1OupMZL_jVhri79yWURvuTE4DCZdjoarHYHYx',
     },
     method: 'GET',
     dataType: 'json',
