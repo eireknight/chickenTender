@@ -1,7 +1,7 @@
 # chickenTender
 Version 1.0.0
 
-Notice: Cors-Anywhere from the host is no longer available.  This app is being rebuilt as of 6/26/2021 https://github.com/Rob--W/cors-anywhere/issues/301
+**Notice: Cors-Anywhere from the host is no longer available.  This app is being rebuilt as of 6/26/2021 https://github.com/Rob--W/cors-anywhere/issues/301**
 
 Chicken Tender is designed to help two people find a common ground on where/ what to eat. Person 1 starts and fills out
 the appropriate forms. Person 2 makes the final decision.
